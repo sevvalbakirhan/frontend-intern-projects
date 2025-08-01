@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Login Page Design",
+      "description": "Preparations for designing a modern and user-friendly login interface will begin soon.",
+      "status": "backlog"
+    },
+    {
+      "id": "2",
+      "title": "Create Registration Form",
+      "description": "A registration form that allows users to sign up easily is being planned; development will start shortly.",
+      "status": "backlog"
+    },
+    {
+      "id": "3",
+      "title": "Dark Mode Design",
+      "description": "Work is actively underway on the dark mode feature, aiming to deliver a sleek theme that enhances user experience.",
+      "status": "in-progress"
+    },
+    {
+      "id": "4",
+      "title": "Connect To API",
+      "description": "API connections are being established to enable seamless data exchange; integration is in progress.",
+      "status": "in-progress"
+    },
+    {
+      "id": "5",
+      "title": "Create Database Schema",
+      "description": "The database schema defining the application's data structure has been successfully created and is ready for use.",
+      "status": "done"
+    },
+    {
+      "id": "6",
+      "title": "Make Navbar Responsive",
+      "description": "The navigation bar has been optimized to work smoothly across all devices, ensuring full mobile responsiveness.",
+      "status": "done"
+    },
+    {
+      "id": "7",
+      "title": "Form Validation Test",
+      "description": "Validation rules for form fields are being tested to prevent user errors and ensure proper input handling.",
+      "status": "in-testing"
+    },
+    {
+      "id": "8",
+      "title": "Mobile Compatibility Test",
+      "description": "Comprehensive testing is being conducted to ensure the application performs flawlessly on various mobile devices.",
+      "status": "in-testing"
+    }
+  ]
+}

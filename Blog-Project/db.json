@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "About Papyon Room Service Solutions ",
+      "content": "Papyon Room Service Solutions is revolutionising the way room service operates in the hospitality industry. With a focus on efficiency, reliability, and simplicity, Papyon ensures that the needs of every guest in their partner hotels are met promptly and effectively. Tailored to support a variety of rentable accommodations, including hotels, hostels, and apartments, Papyon empowers its affiliates to provide an outstanding room service experience. From the very first day, Papyon has committed to enhancing guest satisfaction while driving profitability for its partners.",
+      "image": "/pictures/discover.png"
+    },
+    {
+      "id": "2",
+      "title": "Our business partners",
+      "content": "Papyon Room Service Solutions is a hospitality technology company founded in 2021. We partner with over 1,500 hotels across Türkiye and the United Kingdom to deliver smart, app-free room service through customized QR menus placed in guest rooms. With more than 500 product options and an average delivery time of 32 minutes, Papyon enhances the guest experience while helping hotels increase profitability.\n\nOur AI-powered system operates independently of hotel kitchens and staff, making it a seamless and scalable solution for hotels, hostels, and rental accommodations. Currently serving over 24,000 rooms, Papyon continues to expand across major tourist destinations in Europe.\n\nBy working closely with our hotel partners, we redefine room service—making it faster, more efficient, and more profitable for the hospitality industry.",
+      "image": "/pictures/with.png"
+    },
+    {
+      "id": "3",
+      "title": "Papyon in the Press",
+      "content": "Papyon Room Service Solutions has received significant press coverage. The company announced its expansion into the UK market with its AI-powered room service, which was reported by platforms like eGirisim. Furthermore, as reported by Webrazzi, Papyon secured a substantial investment based on a $6 million valuation. Papyon stands out in the industry by serving over 24,000 hotel rooms across Turkey and the United Kingdom.",
+      "image": "/pictures/press.png"
+    }
+  ]
+}

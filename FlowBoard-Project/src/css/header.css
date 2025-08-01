@@ -1,0 +1,19 @@
+.header {
+
+    height: auto;
+    padding: 20px 30px;
+    background-color: #026aa7;
+    color: white;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.board-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Verification</title>
+</head>
+<body style ="text-align: center; font-family: Arial, sans-serif; background-color: #f0f2f5; padding: 20px; font-size: 30px;">
+  <h2>Please enter the code</h2>
+  <input type="text" id="userCode" placeholder="Verification code" style="padding: 10px; font-size: 20px; width: 300px; margin-bottom: 20px;">
+  <button onclick="check()" style="padding: 10px; font-size: 20px; width: 100px; margin-bottom: 20px;">Confirm</button>
+  <div id="result"></div>
+
+  <script>
+    function check() {
+      const userCode = document.getElementById("userCode").value.trim();
+      const trueCode = localStorage.getItem("verificationCode");
+      const resultDiv = document.getElementById("result");
+
+      if (!trueCode) {
+        resultDiv.textContent = "⚠️ Code not found.";
+        resultDiv.style.color = "orange";
+        return;
+      }
+
+      if (userCode === trueCode) {
+        resultDiv.textContent = "✅ Code is correct! Login successful.";
+        resultDiv.style.color = "green";
+      } else {
+        resultDiv.textContent = "❌The code is incorrect! Try again.";
+        resultDiv.style.color = "red";
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+.list-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    min-height: 200px;
+    max-height: 500px;
+    overflow-y: auto;
+    transition: background-color 0.2s ease;
+}
+
+.list-cards.dragging-over {
+    background-color: #e0f7fa;
+}
+
+.draggable-card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.2s ease;
+}
+
+.draggable-card.dragging {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.edit-form input,
+.edit-form textarea {
+    width: 100%;
+    margin-bottom: 8px;
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.edit-form button {
+    margin-right: 8px;
+}
