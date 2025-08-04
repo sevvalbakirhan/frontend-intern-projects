@@ -1,4 +1,4 @@
-## 🇹🇷 Türkçe Açıklama
+## Türkçe Açıklama
 
 # FlowBoard – Kart Yönetimi
   
