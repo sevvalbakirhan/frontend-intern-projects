@@ -1,4 +1,6 @@
-## 🇹🇷 Doğrulama Sistemi
+## Türkçe Açıklama
+
+# Doğrulama Sistemi
 
 Bu proje, kullanıcıların doğrulama kodu ile sisteme giriş yapmasını sağlayan basit bir web arayüzüdür. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Kod, `localStorage` üzerinden kontrol edilir ve doğrulama sonucu ekranda gösterilir.
 
@@ -19,8 +21,9 @@ Bu proje, kullanıcıların doğrulama kodu ile sisteme giriş yapmasını sağl
 - localStorage API
 
 ---
+## English Description
 
-## 🇬🇧  Verification System
+#  Verification System
 
 This project provides a simple web interface for users to log in using a verification code. Built with HTML, CSS, and JavaScript, it checks the code via `localStorage` and displays the result on screen.
 

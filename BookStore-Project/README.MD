@@ -1,4 +1,4 @@
-## 🇹🇷 Türkçe Açıklama
+##  Türkçe Açıklama
 
 #  Bootstrap Kitapçı Web Sitesi
 
@@ -30,7 +30,7 @@ Bu proje, HTML ve Bootstrap 5 kullanılarak oluşturulmuş basit ve duyarlı bir
 - Bootstrap 5 (CDN üzerinden)
 - Özel görseller (`picture/` klasöründe saklanır)
 ---
-## 🇬🇧 English Description
+##  English Description
 
 #  Bootstrap Bookstore Website
 

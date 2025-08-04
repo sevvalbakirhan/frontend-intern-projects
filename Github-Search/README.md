@@ -1,4 +1,6 @@
-## 🇹🇷  GitHub Kullanıcı Arama
+## Türkçe Açıklama
+ 
+# GitHub Kullanıcı Arama
 
 Bu React projesi, girilen GitHub kullanıcı adına göre GitHub API üzerinden veri çeker. Kullanıcının profil fotoğrafı ve kullanıcı adı ekranda gösterilir. Axios ile veri alma işlemi yapılır, koşullu render ile kullanıcı bilgileri gösterilir.
 
@@ -18,8 +20,9 @@ Bu React projesi, girilen GitHub kullanıcı adına göre GitHub API üzerinden 
 - Özel CSS
 
 ---
+## English Description
 
-## 🇬🇧  GitHub User Search
+# GitHub User Search
 
 This React project fetches data from the GitHub API based on the entered username. It displays the user's profile picture and username. Axios is used for data fetching, and conditional rendering shows user info.
 

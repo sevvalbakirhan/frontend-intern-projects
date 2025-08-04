@@ -1,4 +1,4 @@
-## 🇹🇷 Türkçe Açıklama
+##  Türkçe Açıklama
 
 # 🛎️ Papyon Room Service Dashboard
 
@@ -22,7 +22,7 @@ Bu proje, Papyon Room Service Solutions için geliştirilen bir içerik yönetim
 - Vite: Hızlı geliştirme ortamı ve build sistemi
 
 ---
-## 🇬🇧 English Description
+## English Description
 
 # 🛎️ Papyon Room Service Dashboard
 

@@ -1,4 +1,6 @@
-## 🇹🇷 FlowBoard – Kart Yönetimi
+## 🇹🇷 Türkçe Açıklama
+
+# FlowBoard – Kart Yönetimi
   
 FlowBoard projesinin bu bölümü, kartları yönetir. Kartlar sürükle-bırak ile taşınabilir, düzenlenebilir ve silinebilir. `react-beautiful-dnd` ile etkileşimli yapı sağlanır, Axios ile JSON Server üzerinden veri işlemleri yapılır.
 
@@ -19,7 +21,9 @@ FlowBoard projesinin bu bölümü, kartları yönetir. Kartlar sürükle-bırak 
 - JSON Server
 - Özel CSS
 ---
-## 🇬🇧 FlowBoard – Card Management
+## English Description
+
+# FlowBoard – Card Management
 
 This section of the FlowBoard project manages cards. Cards can be dragged and dropped, edited, and deleted. Interactive functionality is provided using `react-beautiful-dnd`, and data operations are handled via Axios and JSON Server.
 

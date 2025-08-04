@@ -1,4 +1,6 @@
-## 🇹🇷 React Kurslar Uygulaması
+##  Türkçe Açıklama
+
+# React Kurslar Uygulaması
 
 Bu proje, çeşitli programlama kurslarını görselleri ve açıklamalarıyla birlikte listeleyen basit bir React uygulamasıdır. Bileşen tabanlı yapısı sayesinde modüler ve düzenli bir kod mimarisi sunar.
 
@@ -19,7 +21,7 @@ Bu proje, çeşitli programlama kurslarını görselleri ve açıklamalarıyla b
 ###  Proje Yapısı
 
 ---
-## 🇬🇧 English Description
+##  English Description
 
 #  React Courses Showcase
 

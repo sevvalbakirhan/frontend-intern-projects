@@ -1,4 +1,6 @@
-## 🇹🇷 Döviz Kuru Uygulaması
+##  Türkçe Açıklama
+
+#  Döviz Kuru Uygulaması
 
 Bu React tabanlı uygulama, seçilen para birimleri arasında anlık döviz kuru hesaplaması yapar. Kullanıcı, miktarı ve para birimlerini seçerek güncel kur bilgisine göre dönüşüm sonucunu görebilir.
 
@@ -18,7 +20,9 @@ Bu React tabanlı uygulama, seçilen para birimleri arasında anlık döviz kuru
 - CSS: Özel stillendirme
 - React Icons: Görsel ikonlar
 ---
-## 🇬🇧 Currency Exchange App
+## English Description
+
+# Currency Exchange App
 
 This React-based application allows users to calculate real-time currency conversions between selected currencies. Users can enter an amount and choose currencies to get the conversion result based on live exchange rates.
 
