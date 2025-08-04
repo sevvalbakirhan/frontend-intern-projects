@@ -1,7 +1,6 @@
 .section-card {
     width: 100%;
     min-height: 200px;
-    /* Boş da olsa kutu görünsün */
     background: #f0f4f8;
     border-radius: 10px;
     padding: 10px;
